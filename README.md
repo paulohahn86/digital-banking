@@ -2,4 +2,11 @@
 
 Digital Banking microservice developed together with Digital Innovation One
 
-#Inheritance #Polymorphism #Interface
+* Interface
+* Polymorphism
+* Inheritance
+
+* Entity
+* Repository
+* Service
+
