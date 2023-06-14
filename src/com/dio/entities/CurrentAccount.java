@@ -1,17 +1,14 @@
 package com.dio.entities;
 
-public class ContaCorrente extends Conta {
+public class CurrentAccount extends Account {
 
-    public ContaCorrente(Cliente cliente) {
+    public CurrentAccount(Client cliente) {
         super(cliente);
     }
 
     @Override
     public void imprimirExtrato() {
-
         System.out.println("***** Extrato Conta Corrente *****");
-        super.imprimirInfosComuns();
-
     }
 
 

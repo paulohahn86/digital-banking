@@ -1,10 +1,10 @@
 package com.dio.entities;
 
-public class Cliente {
+public class Client {
 
     private String nome;
 
-    public Cliente(String nome) {
+    public Client(String nome) {
         this.nome = nome;
     }
 
